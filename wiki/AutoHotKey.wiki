@@ -15,3 +15,5 @@ Mainly used to make macros in the Windows environment. I am using it to create a
  * Respond to signals from hand-held remote controls via the WinLIRC client script.
  * Run existing AutoIt v2 scripts and enhance them with new capabilities.
  * Convert any script into an EXE file that can be run on computers that don't have AutoHotkey installed.
+
+More info [http://www.autohotkey.com here]
