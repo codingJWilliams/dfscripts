@@ -2,7 +2,7 @@
 
 = Introduction =
 
-Mainly used to make macros in the Windows environment. I am using it to create a macro program for Darkfall Online.
+Mainly used to make macros in the Windows environment. I am using it to create a macro program for DarkFall Online.
 
 
 = Details =
